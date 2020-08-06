@@ -6,9 +6,9 @@
 For our final project and in order to leverage our learnings over the past six months, we created an app that allows users to create a profile, search NYC parks, and view/leave reviews. We look forward to developing the map capabilities further to ensure more accurate location estimates and to include travel time and park details.
 
 ### Developers: 
-* [Ted Belanoff] (https://github.com/TedBelanoff)- Back-End
-* [Dahlia Amade] (https://github.com/dahlia15) - Front-End
-* [Ed Son] (https://github.com/eds2048) - Map Integration
+* [Ted Belanoff](https://github.com/TedBelanoff)- Back-End
+* [Dahlia Amade](https://github.com/dahlia15) - Front-End
+* [Ed Son](https://github.com/eds2048) - Map Integration
 
 ### 
 npm i & npm i react-bootstrap
